@@ -1,0 +1,4 @@
+ls
+ls | more
+ls | more | wc -l
+ls | wc -l
